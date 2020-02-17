@@ -6,13 +6,13 @@
       <Value Profile="(Default)" />
     </Setting>
     <Setting Name="ClientId" Type="System.String" Scope="User">
-      <Value Profile="(Default)">3da44a29bdd343129cddbeb7bac862f6</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="ClientSecret" Type="System.String" Scope="User">
-      <Value Profile="(Default)">e76e589e70a744e29f5909219751fc9e</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="RedirectUri" Type="System.String" Scope="User">
-      <Value Profile="(Default)">http://localhost</Value>
+      <Value Profile="(Default)" />
     </Setting>
     <Setting Name="CacheKeyToFilenameMap" Type="System.String" Scope="User">
       <Value Profile="(Default)" />

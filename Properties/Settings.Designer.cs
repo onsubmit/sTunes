@@ -37,7 +37,7 @@ namespace OnSubmit.STunes.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("3da44a29bdd343129cddbeb7bac862f6")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string ClientId {
             get {
                 return ((string)(this["ClientId"]));
@@ -49,7 +49,7 @@ namespace OnSubmit.STunes.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("e76e589e70a744e29f5909219751fc9e")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string ClientSecret {
             get {
                 return ((string)(this["ClientSecret"]));
@@ -61,7 +61,7 @@ namespace OnSubmit.STunes.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("http://localhost")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string RedirectUri {
             get {
                 return ((string)(this["RedirectUri"]));
